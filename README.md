@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LujainAb
 - 🌱 I’m currently a Software engineer student at KSU
-- 💞️ I’m interested in designing UI and planning to explore more of it.
+- 💞️ I’m interested in Web app development/designing UI and planning to explore more of it.
 - 📫 How to reach me : Email: Lujainmeab@gmail.com
 
 <!---
