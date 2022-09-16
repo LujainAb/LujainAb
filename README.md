@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LujainAb
-- 🌱 I’m currently a Senior Software engineer student at KSU
-- 💞️ I’m interested in Web app development/Mobile development and planning to explore more of it.
+- 🌱 I’m a Software engineering Fresh Graduate from KSU
+- 💞️ I’m interested in data science and analytics and planning to explore more of it.
 - 📫 How to reach me : Email: Lujain.aymm@gmail.com
 
 <!---
